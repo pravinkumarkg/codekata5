@@ -14,7 +14,7 @@
 			small=a[i];
 	}
 	
-	printf("%d\t%d\t",large,small);
+	printf("%d\t%d\t",small,large);
  
 	return 0;
 }
